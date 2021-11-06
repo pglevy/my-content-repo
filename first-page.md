@@ -10,3 +10,5 @@ This is a list:
 - Item one
 - Item two
 - Item three
+
+Some changes after the "release" snapshot.
