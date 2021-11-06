@@ -7,4 +7,6 @@ This is a list:
 - Item two
 - Item three
 
-[Here is a placeholder link](#)
+[Here is a placeholder link](https://github.com/pglevy/my-content-repo)
+
+> Add some new content as a blockquote
